@@ -7,8 +7,7 @@ Wireless Word de décembre 1970.
 5) Montage des radiateurs
 6) Câblage
 7) Le budget serait de 100 euros max. par voie
-Bonjour à tous,
-
+   
  Message de Bruno du 20 février 2025
 Voici les schémas de notre projet : « J.L. Linsley Hood Class A Amplifier ».
 Les schémas présentés concernent un bloc mono.
