@@ -8,7 +8,12 @@ Wireless Word de décembre 1970.
 6) Câblage
 7) Le budget serait de 100 euros max. par voie
 
-Dernière info : Nous avons mis en ligne la note de calcul de Bernard et Bruno, le 25 février 2025.
+Dernière info : Nous avons mis en ligne la note de calcul de Bernard et Bruno, le 25 février 2025 :
+Bonjour à tous,
+Ci joint une note de calcul pour déterminer le Beta statique des transistors de sortie 2N3055 de l'ampli
+Bernard peux-tu essayer rapidement deux ou trois 2N3055 à IC: 1,25 A et VCE: 13,5V pour mesurer leur Beta. Je me demande si on trouvera des bêtes de course avec des Beta > 87
+Bonne lecture
+Bruno 
    
  Message de Bruno du 20 février 2025
 Voici les schémas de notre projet : « J.L. Linsley Hood Class A Amplifier ».
